@@ -1,0 +1,16 @@
+{
+  "name": "penguin",
+  "version": "1.0.0",
+  "description": "Bulk Social Media & Domain Availability Checker",
+  "main": "index.js",
+  "repository": "https://github.com/crock/penguin-bot.git",
+  "author": "Alex Crocker",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "lodash": "^4.17.10",
+    "node-cron": "^1.2.1",
+    "request": "^2.87.0"
+  }
+}

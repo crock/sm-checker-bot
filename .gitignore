@@ -1,0 +1,15 @@
+# Editor configurations
+.idea/
+.vscode/
+
+# Node Dependencies
+node_modules/
+
+# Useless files
+.DS_Store
+
+# Private Configuration files
+config.json
+
+# Other files
+services.json
